@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th, td {
+    text-align: center; /* Center-align the text */
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+#fetch-data-btn {
+    display: block;
+    margin: 0 auto;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
